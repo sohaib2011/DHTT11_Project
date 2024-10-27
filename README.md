@@ -71,5 +71,12 @@ IFTTT is a web-service that creates conditional statements to trigger actions on
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/9c677e0d-1a3b-4e82-8bf1-20b4b35296b3">
 
+<img src="https://github.com/user-attachments/assets/457ddc7d-2990-4d0c-95fe-0d734c72e0f3" width="400">
+
+<img src="https://github.com/user-attachments/assets/f91fd597-fa69-4fa9-8c44-561371dd680d" width="400">
+
+
+
+
 
 
