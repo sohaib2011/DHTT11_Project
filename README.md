@@ -69,7 +69,18 @@ IFTTT is a web-service that creates conditional statements to trigger actions on
 
 ### Step 4 - Arduino 
 
-<img width="190" alt="image" src="https://github.com/user-attachments/assets/9c677e0d-1a3b-4e82-8bf1-20b4b35296b3">
+4.1 
+
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/659e1cbf-5efc-4ac4-a615-b4b46d3d10eb">
+
+To ensure a well-funcitoning code; make sure to install "DHT sensor library" (by Adafruit) and "esp32" (by Espressif) from the Library Manager. Use images below as reference
+
+<img width="155" alt="image" src="https://github.com/user-attachments/assets/59df9e7c-3864-4096-bfc0-f3c59563b881">
+<img width="152" alt="image" src="https://github.com/user-attachments/assets/72e1997c-2343-4d0f-b7fb-5d1cbb8f2f9b">
+
+
+4.2
+Upload the code and ensure that the baud rate from the code aligns with the setting in the serial monitor. In addition to this, make sure that your ESP32 and laptop are connected to the same network. 
 
 <img src="https://github.com/user-attachments/assets/457ddc7d-2990-4d0c-95fe-0d734c72e0f3" width="400">
 
@@ -77,6 +88,6 @@ IFTTT is a web-service that creates conditional statements to trigger actions on
 
 
 
-
+<img src="https://github.com/user-attachments/assets/f8ec2bee-2679-4c20-9337-66465c8fa45c" width=400>
 
 
