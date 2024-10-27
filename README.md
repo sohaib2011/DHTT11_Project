@@ -33,7 +33,21 @@ The connectivity between ESP32 and the DHT11 Sensor is fairly easy as it only ha
 
 <img src="https://github.com/user-attachments/assets/7f280610-8c31-424e-9c77-9032a0543eb3" width="300">
 
-### Step 2 
+### Step 2 - IFFT Web Service Setup
+IFTTT is a web-service that creates conditional statements to trigger actions on platforms like Gmail, SMS, and more. We will use this to alert us once the threshold to the weather patterns has exceeded
+
+2.1 Login or signup on [IFTTT](https://example.com)
+
+2.2 After signing in, you will be introduced to an "Explore" page. In the searchbar, type "webhooks" and select it from the result. Then on the next page, click on the "Create" button
+
+<img width="255" alt="image" src="https://github.com/user-attachments/assets/5a68f6ea-6fc2-40fc-9ce1-358bafc99363">
+
+2.3  In the next step, click "Add" for the "If This" condition. In the search panel, search for "webhooks" again
+
+<img width="255" alt="image" src="https://github.com/user-attachments/assets/31dc0cdd-728a-40bc-b887-36924eaefe2f">
+
+### Step 3 - Arduino
+
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/9c677e0d-1a3b-4e82-8bf1-20b4b35296b3">
 
