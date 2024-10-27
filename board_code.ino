@@ -16,7 +16,7 @@ const char* password = "12345678";
 
 // IFTTT Webhook settings
 const char* host = "maker.ifttt.com";
-const char* privateKey = "dLyyd1rss987kgOeINdfCy";
+const char* privateKey = "o10tpqHwrlQARK7wMHwdI5xLLZwZ0EtJJpjXr46YHgC";
 
 // Initialize Server
 WiFiServer Server(80);
